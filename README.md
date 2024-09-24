@@ -11,3 +11,7 @@ Exemplo:
  * Algorithms Used: K-Nearest Neighbours, TF-IDFS, Singular Value Decomposition Model (SVD), Alternatinins least Square (ALS)
  * Optimised the SVD & ALS model.
  * The Project write-up is published on [SSRN] (https:// link com o projeto publicado.com)
+
+Adding image:
+	![alt text](image.jpg)
+ 	![images](fotoexemplo1.jpg)
