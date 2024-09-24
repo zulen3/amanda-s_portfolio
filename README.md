@@ -13,5 +13,6 @@ Exemplo:
  * The Project write-up is published on [SSRN] (https:// link com o projeto publicado.com)
 
 Adding image:
-#	![alt text](image.jpg)
+#![alt text](image.jpg)
  	![](Screenshots/Captura de tela 2024-09-10 203613.png)
+![](Screenshots/Captura de tela 2024-09-16 200024.png)
