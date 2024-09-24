@@ -14,4 +14,4 @@ Exemplo:
 
 Adding image:
 #	![alt text](image.jpg)
- 	![](Screenshots/Captura de tela 2024-09-10 203613.jpg)
+ 	![](Screenshots/Captura de tela 2024-09-10 203613.png)
